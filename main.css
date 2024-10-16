@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  text-align: center;
+}
